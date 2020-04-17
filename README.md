@@ -11,4 +11,4 @@ Repositorio com os fontes do desafio (gostack-conceitos-reactjs).
 É necessário executar o backend para integração com a aplicação.
 
 Link Backend:
-<a href="https://github.com/denismend/gostack-conceitos-reactjs">https://github.com/denismend/gostack-conceitos-reactjs</a>
+<a href="https://github.com/denismend/gostack-conceitos-nodejs">https://github.com/denismend/gostack-conceitos-nodejs</a>
